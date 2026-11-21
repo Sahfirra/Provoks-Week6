@@ -1,0 +1,19 @@
+.kotak {
+  border: 1px solid #6adfff;
+  border-radius: 16px;
+  padding: 24px;
+  background: #ffffff;
+}
+
+.judul {
+  margin: 0 0 8px;
+  font-size: 24px;
+  color: #143988;
+}
+
+.paragraf
+{
+  margin: 0;
+  font-size: 20px;
+  color: #689ce5;
+}
